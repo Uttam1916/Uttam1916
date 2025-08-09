@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Uttam
+
+- I've been extensively learning Go and I love it
+- SQL is fun
+- Can code in C and python
 
 <!--
 **Uttam1916/Uttam1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

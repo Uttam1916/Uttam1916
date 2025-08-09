@@ -1,8 +1,12 @@
-## Hi, I'm Uttam
+## 👋 Hi, I'm Uttam
 
-- I've been extensively learning Go and I love it
-- SQL is fun
-- Can code in C and python
+### I love Go routines
+I’ve been exploring and working with SQL, Docker, and my new favorite language — Go 🐹, followed closely by C and Python.
+
+Lately, I’ve been diving deep into how servers and web applications are implemented in Go, and I’m loving every bit of it.
+
+I’m eager to apply my skills and the technologies I’ve learned and am constantly exploring the rabbit hole of tech.
+If I can get my hands dirty, I'm all in!
 
 <!--
 **Uttam1916/Uttam1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Uttam
+### I love linux
 
-### I love Go routines
-I’ve been working with SQL, exploring Docker, and having a blast with my new favorite language — Go 🐹, followed closely by C and Python.
+I’ve been working with SQL, exploring Docker, and having a blast with my new favorite language — Go , followed closely by C and Python.
 
 Lately, I’ve been diving deep into how servers and web applications are implemented in Go, and I’m loving every bit of it.
 

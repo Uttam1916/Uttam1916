@@ -1,13 +1,7 @@
-## 👋 Hi, I'm Uttam
+## Hi
 ### I love linux
 
-I’ve been working with SQL, exploring Docker, and having a blast with my new favorite language — Go , followed closely by C and Python.
-
-Lately, I’ve been diving deep into how servers and web applications are implemented in Go, and I’m loving every bit of it.
-
-I’m eager to apply my skills and the technologies I’ve learned and am constantly exploring the rabbit hole of tech.
-If I can get my hands dirty, I'm all in!
-
+I Know Python, Go, C, SQL, Docker, and the other boring front end frameworks
 <!--
 **Uttam1916/Uttam1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

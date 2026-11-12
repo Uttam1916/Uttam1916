@@ -1,7 +1,7 @@
 ## Hi
 ### I love linux
 
-I Know Python, Go, C, SQL, Docker, and the other boring front end frameworks
+I Know Python, Go, C, SQL, Docker, and the other boring frameworks
 <!--
 **Uttam1916/Uttam1916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
